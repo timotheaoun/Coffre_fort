@@ -7,13 +7,11 @@ Ce que je vais faire:
 Le dossier serait protégé par un kernel de surveillance
 ## 🧪 Contenu du dépôt
 
-| Dossier/Fichier            | Description                                  |
+| Emplacement         | Description                                  |
 |---------------------------|----------------------------------------------|
-| `reverse_shell/`          | Scripts de reverse shell pour test local     |
-| `fake_malware/`           | Exemples de comportements "malicieux" simulés |
-| `vuln_tests/`             | Exploits inoffensifs pour tester des failles |
-| `README.md`               | Présentation et avertissements               |
+| `#/A           `          | Attribut clsid de la corbeill + `attrib +s +h +o +r /s /l /d` + gestion de icacls en mode tout refuser |
+| `#A/B`           | Attrubut clsid spécial --> GOD.mode + dossier chiffré avec cipher |
+| `#A/B/C.crypt`             | Zip chiffré via 2 méthodes |
+| `#KEY`               | Hash de plusieurs infos seravtn à l'authentification             |
 
 ---
-
-## 🔐 Éthique et cadre légal
