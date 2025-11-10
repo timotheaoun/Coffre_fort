@@ -9,9 +9,9 @@ Le dossier serait protégé par un kernel de surveillance
 
 | Emplacement         | Description                                  |
 |---------------------------|----------------------------------------------|
-| `#/A           `          | Attribut clsid de la corbeill + `attrib +s +h +o +r /s /l /d` + gestion de icacls en mode tout refuser |
+| `#/A           `          | Attribut clsid de la corbeille + `attrib +s +h +o +r /s /l /d` + gestion de icacls en mode tout refuser |
 | `#A/B`           | Attrubut clsid spécial --> GOD.mode + dossier chiffré avec cipher |
 | `#A/B/C.crypt`             | Zip chiffré via 2 méthodes |
-| `#KEY`               | Hash de plusieurs infos seravtn à l'authentification             |
+| `#KEY`               | Hash de plusieurs infos servant à l'authentification             |
 
 ---
