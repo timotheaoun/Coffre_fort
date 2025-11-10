@@ -1,5 +1,5 @@
 # Coffre_fort
-Ce qui me frappe, c'est que les coffres forts actuels n'empêchent pas la suppression (car en général, utilisés dans des clés USB). Je vais donc créer une appli simple pour y remédier.
+La plupart des coffres forts actuels n'empêchent pas la suppression (car en général, utilisés dans des clés USB). Je vais donc créer une appli simple pour y remédier.
 
 Ce que je vais faire:
 * un dossier rennommé avec des clsid système, un attrib caché, système et lecture seule et un accès refusé à tous
